@@ -7,7 +7,7 @@
     "test": "exit 0"
   },
   "publishConfig": {
-    "@msisaif:registry": "https://npm.pkg.github.com"
+    "@msilabs:registry": "https://npm.pkg.github.com"
   },
   "repository": {
     "type": "git",
