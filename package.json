@@ -1,6 +1,6 @@
 {
   "name": "m-vue-tailwind",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "vue component with tailwind css",
   "scripts": {
     "dev": "vite",
